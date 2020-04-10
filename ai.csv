@@ -1,0 +1,68 @@
+Type of vehicle,Name,Suited for,Age group of people buy,Body type,Fuel type,Price (in lakh),Keywords
+Car,Vitara Brezza,"Personal,Public","21,32,45,57,68",Suv,Diesel,12,"durable,economical"
+Loader,JCB,"Personal,Public","30,32,34",Compact Wheel,"CNG,Petrol",36,"Comfort Driving, Best,in,class Cabin, Long Lasting Structure"
+Truck,Tata Ace,"Personal,Public","25,28,31,36",Half Body,"Petrol,Diesel",4.36,"High milege,cheap,low maintainence,durable,economical"
+Auto,Mahindra Alfa ,"Personal,Public","21,32,45,57,68",Standard,"CNG,Petrol",1.52,"Less polution, low fuel consumption"
+Loader,JCB,"Personal,Public","30,32,34",Medium wheel,Diesel,49,"Ease Of Serviceability From Ground Level,Easy Low Cost Maintenance ,Easy Loading On Dump Trucks"
+Truck,Tata Ace,"Personal,Public","25,28,31,36",Half Body,Diesel,4.2,"High milege,cheap,low maintainence,durable,economical"
+Auto,Mahindra Alfa,"Personal,Public","21,32,45,57,68",Standard,"CNG,Petrol",1.52,"High milege,cheap,low maintainence,durable,economical"
+Loader,Schwing Stetter,"Personal,Public","30,32,34",Compact Wheel,Diesel,16," Strong and reliable power train, Z , bar linkage for greater digging power"
+Truck,Tata  ,"Personal,Public","25,28,31,36",Full Body,Diesel,13.9,"High milege,cheap,low maintainence,durable,economical"
+Auto,Mahindra Alfa,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",1.52,"High milege,cheap,low maintainence,durable,economical"
+Loader,Mahindra,"Personal,Public","30,32,34",Medium wheel,Diesel,54, Turbocharged Intercooled Diesel Engine
+Truck,Tata,"Personal,Public","25,28,31,36",Box body,Diesel,27,"Less polution, low fuel consumption"
+Auto,Piaggio Ape,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",1.75,"High milege,cheap,low maintainence,durable,economical"
+Car,Mercedes_Benz_A_160_Classic_Klima,Public,"21,32,45,57,68",bus,"Benzin,Petrol",66,"durable,economical"
+Loader,SEM,"Personal,Public","30,32,34",Dozer,Diesel,89," Efficient,Reliable, comfortable operation"
+Truck,PIAGGIO APE,"Personal,Public","25,28,31,36",Deck body,Diesel,1.4,"Single cylinder,Water Cooled,DI, Disc Brakes"
+Auto,Piaggio Ape,"Personal,Public","25,28,31,36",Standard,"LPG,Petrol",1.8,"High milege,cheap,low maintainence,durable,economical"
+Car,Fiat_Punto_12,"Personal,Public","21,32,45,57,68",kleinwagen,"Benzin,Petrol",16,"durable,economical"
+Loader,CAT,"Personal,Public","30,32,34",Large Wheel,Diesel,63,"Cheap, less maintainance"
+Truck,Eicher,"Personal,Public","25,28,31,36",Passenger & load,Diesel,2.4,"Greaves four,stroke, single,cylinder, Drum and Hydraulic brakes"
+Auto,Bajaj RE,"Personal,Public","21,32,45,57,68",Standard,"CNG,Petrol",2,"High milege,cheap,low maintainence,durable,economical"
+Loader,CAT,"Personal,Public","30,32,34",Compact Wheel,Diesel,36,"Durable, High performance"
+Truck,Piaggio Ape,"Personal,Public","21,32,45,57,68",Deck body,Diesel,1.5,"Single cylinder,Water Cooled,DI, Front Suspension
+Helical spring with hydarullic telescopic shock absorber"
+Auto,Bajaj RE,"Personal,Public","25,28,31,36",Standard,"LPG,Petrol",1.87,"durable,economical"
+Car,Renault_Kangoo_19_Diesel,Public,"25,28,31,36",Bus,Diesel,9,"durable,economical"
+Loader,CASE,"Personal,Public","30,32,34",Dozer,Diesel,37," Turbine Type Pre,Filter,Frontal Transmission Protection"
+Truck,Mahindra,"Personal,Public","21,32,45,57,68",Deck body,Diesel,2.95,"Single cylinder,Water Cooled, Rigid"
+Auto,Bajaj RE,"Personal,Public","25,28,31,36",Standard,"LPG,Petrol",2,"High milege,cheap,low maintainence,durable,economical"
+Loader,CASE,"Personal,Public","30,32,34",Dozer,Diesel,110," Automatic Spring Applied Parking Brake ,Dual Path Hydrostatic Transmission"
+Truck,Lohia,"Personal,Public","21,32,45,57,68",Box body,Diesel,1.73,"Single Cylinder Four Stroke, Direct Injection, Diesel Engine"
+Auto,Bajaj RE,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",1.75,"High milege,cheap,low maintainence,durable,economical"
+Loader,Mahindra,"Personal,Public","21,32,45,57,68",,Diesel,68," Low maintenance cost, Efficient, Fine built"
+Truck,Mahindra,"Personal,Public","25,28,31,36",Deck body,Diesel,3.4,"mSingle cylinder,Direct Injection"
+Auto,Atul Gemini,"Personal,Public","25,28,31,36",Standard,"LPG,Petrol",1.75,"High milege,cheap,low maintainence,durable,economical"
+Car,Honda_HRV_reserviert,"Personal,Public","30,32,34",Suv,"Benzin,Petrol",7,"High milege,cheap,low maintainence,durable,economical"
+Loader,LuiGong,"Personal,Public","25,28,31,36",Dozer,Diesel,1200," Auto Track Tensioning, High Working Efficiency"
+Truck,Tata,"Personal,Public","21,32,45,57,68",Deck body,Diesel,4.4,"Hydraulic Brakes, ridid axle, paraboicspring"
+Auto,Atul Gemini,"Personal,Public","25,28,31,36",Standard,"LPG,Petrol",2.15,"High milege,cheap,low maintainence,durable,economical"
+Loader,LuiGong,"Personal,Public","25,28,31,36",Dozer,Diesel,66," Designed Radiator Increase Cooling Efficiency, Automatic Greasing System Fitted"
+Truck,Tata,"Personal,Public","25,28,31,36",Full Body,Diesel,30.5,"Air brakes, Extra Heavy Duty Forged I Beam, Reverse Elliot Type"
+Auto,Atul GEM,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",2.07,"High milege,cheap,low maintainence,durable,economical"
+Loader,Komastu,"Personal,Public","25,28,31,36",Dozer,Diesel,54," High Capacity Air Conditioning System, Excellent Visibility Without ROPS Post"
+Truck,Tata,"Personal,Public","21,32,45,57,68",Full Body,Diesel,7.2,Vacuum Assisted Dual Circuit Hydraulic with Tandem Master Cylinder
+Auto,Atul,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",2.19,"High milege,cheap,low maintainence,durable,economical"
+Loader,ACE,"Personal,Public","21,32,45,57,68",Medium wheel,Diesel,22," Cheap, durable, Low maintainance"
+Truck,Ashok Leyland,"Personal,Public","25,28,31,36",Box body,Diesel,18.2,"durable,economical"
+Auto,TukTuk,"Personal,Public","21,32,45,57,68",Standard,"LPG,Petrol",2.03,"High milege,cheap,low maintainence,durable,economical"
+Loader,Volvo,"Personal,Public","25,28,31,36",Large Wheel,Diesel,98," Torque multiplication 2.85:1, Maximum speed, forward/reverse"
+Truck,Ashok Leyland,"Personal,Public","25,28,31,36",Deck body,Diesel,18,".H,series Common Rail injection system"
+Auto,Alfa,"Personal,Public","21,32,45,57,68",Standard,Electric,1.2,"High milege,cheap,low maintainence,durable,economical"
+Loader,Volvo,"Personal,Public","25,28,31,36",Medium wheel,Diesel,35," Cheap, durable, Low maintainance"
+Truck,Ashok Leyland,"Personal,Public","21,32,45,57,68",Deck body,Diesel,5.3,",1.5L Turbo Diseal comman Rail Engine"
+Auto,TukTuk,"Personal,Public","25,28,31,36",Standard,"CNG,Petrol",2.2,"High milege,cheap,low maintainence,durable,economical"
+Loader,LuiGong,"Personal,Public","25,28,31,36",Medium wheel,Diesel,78, most efficiently
+Truck,Ashok Leyland,"Personal,Public","21,32,45,57,68",Deck body,Diesel,12.5,H-series- Turbocharged Intercooled
+Auto,TukTuk,Personal-Public,25-28-31-36,Standard,CNG-Petrol,2.05,High milege-cheap-low maintainence-durable-economical
+Loader,Tata,Personal-Public,25-28-31-36,Medium wheel,Diesel,42.5, rich industry experience & knowledge
+Truck,Ashok Leyland,Personal-Public,21-32-45-57-68,Box body,Diesel,8.8,-Parabolic - 3 leafs- overslung suspension with double acting shock absorbers
+Auto,TukTuk,Personal-Public,25-28-31-36,Standard,CNG-Petrol,2.15,High milege-cheap-low maintainence-durable-economical
+Car,Volkswagen_Touran_19_TDI_DPF_Navi_PDC_Tempomat_AHK_TUV_Neu,Public,25-28-31-36,Bus,Diesel,14,High milege-cheap-low maintainence-durable-economical
+Loader,Monitau,Personal-Public,30-32-34,Compact Wheel,Diesel,46, Cheap- durable- Low maintainance
+Truck,Ashok Leyland,Personal-Public,25-28-31-36,Box body,Diesel,27.8,#NAME?
+Auto,Baxy,Personal-Public,25-28-31-36,Standard,LPG-Petrol,2.3,High milege-cheap-low maintainence-durable-economical
+Loader,L&T,Personal-Public,30-32-34,Medium wheel,Diesel,3,cheap- low performance
+Truck,BHARATBENZ,Personal-Public,25-28-31-36,Cabin with chassis,Diesel,17.5,Pneumatic- Foot operated- Dual line with ABS
+Auto,Hero,Personal-Public,21-32-45-57-68,Compact  ,Electrical,1.1,High milege-cheap-low maintainence-durable-economical
